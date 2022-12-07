@@ -1,5 +1,4 @@
-﻿using DevExpress.Web.ASPxClasses;
-using DevExpress.Web.ASPxGridView;
+﻿using DevExpress.Web;
 using DevExpress.Web.Data;
 using System;
 using System.Collections.Generic;
