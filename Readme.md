@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to update multiple grid controls on a custom button click
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4992/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543303/)**
 <!-- run online end -->
 
 This example demonstrates how to place multiple grid controls in a callback panel and use a custom button to update the grids simultaneously.
